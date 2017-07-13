@@ -1,0 +1,6 @@
+main.cpp
+moc_SnakeDlg.cpp
+qrc_SnakePics.cpp
+SnakeDlg.cpp
+SnakeDlg.h
+ui_SnakeDlg.h
